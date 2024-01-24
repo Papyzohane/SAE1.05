@@ -9,7 +9,7 @@ import csv
 import webbrowser
 
 # Ouvrir le fichier "extrait.txt"
-with open("fichier2.txt", "r") as fichier:
+with open("fichier_à_traiter.txt", "r") as fichier:
     ipsr = []
     ipde = []
     longueur = []

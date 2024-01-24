@@ -1,11 +1,11 @@
 
-# Traitement des données
+# Traitement des donnï¿½es
 
-## Serigne Fallou Mbaye - Projet SAE 15
+## Moustapha Mbaye - Projet SAE 15
 
-Sur cette page web, nous vous avons  les informations et données pertinentes trouvées dans le fichier à traiter.
+Sur cette page web, nous vous avons  les informations et donnï¿½es pertinentes trouvï¿½es dans le fichier ï¿½ traiter.
 
-### Nombre total de trames échangées
+### Nombre total de trames ï¿½changï¿½es
 11016
 
 ### Drapeaux (Flags)
@@ -15,11 +15,11 @@ Sur cette page web, nous vous avons  les informations et données pertinentes tro
 
 ![Histogramme des drapeaux](histogramme_drapeaux.png)
 
-### Nombre de requêtes et réponses
+### Nombre de requï¿½tes et rï¿½ponses
 - Request: 42
 - Reply: 42
 
-![Histogramme des requêtes et réponses](histogramme_requetes_reponses.png)
+![Histogramme des requï¿½tes et rï¿½ponses](histogramme_requetes_reponses.png)
 
 ### Statistiques entre seq, win et ack
 - Nombre de seq: 8201

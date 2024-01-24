@@ -12,7 +12,7 @@ import csv
 import matplotlib.pyplot as plt
 
 try:
-    with open("fichier2.txt", encoding="utf8") as fh:
+    with open("fichier_à_traiter.txt", encoding="utf8") as fh:
         res = fh.read()
 except FileNotFoundError:
     print("Le fichier n'existe pas :", os.path.abspath('fichieratraiter.txt'))
