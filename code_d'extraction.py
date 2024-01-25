@@ -22,7 +22,6 @@ ress = res.split('\n')
 tab_dest = np.array([])
 
 with open("extrait.csv", "w", newline='') as fic:
-    # test est le fichier d'arrivée des extractions
     writer = csv.writer(fic)
     evenement = ["DATE", "SOURCE", "PORT", "DESTINATION", "FLAG", "SEQ", "ACK", "WIN", "OPTIONS", "LENGTH"]
     writer.writerow(evenement)  # écriture de mes titres dans le tableau
